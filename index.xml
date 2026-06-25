@@ -6,65 +6,65 @@
       <description>Last 10 notes on Research Vault</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Open-weight LLM Weekly Recap — week of 2026-06-22–2026-06-28 (DRY-RUN)</title>
-    <link>https://stinkydog1501.github.io/research-vault/research/dry-run-test-2026-06-27-llm-weekly-recap</link>
-    <guid>https://stinkydog1501.github.io/research-vault/research/dry-run-test-2026-06-27-llm-weekly-recap</guid>
-    <description><![CDATA[ Open-weight LLM Weekly Recap — week of 2026-06-22–2026-06-28 (DRY-RUN TEST NOTE — will be deleted) 🗓 Open-weight LLM week of 2026-06-22–2026-06-28 (1 release) 🏆 Headline: Alibaba’s Qwen-AgentWorld family debuted this week — the first open-weight “language world model” unifying 7 agent domains in a... ]]></description>
-    <pubDate>Fri, 26 Jun 2026 16:00:00 GMT</pubDate>
+    <title>document-parsing</title>
+    <link>https://stinkydog1501.github.io/research-vault/tags/document-parsing</link>
+    <guid>https://stinkydog1501.github.io/research-vault/tags/document-parsing</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 25 Jun 2026 20:17:07 GMT</pubDate>
+  </item><item>
+    <title>pdf-parsing</title>
+    <link>https://stinkydog1501.github.io/research-vault/tags/pdf-parsing</link>
+    <guid>https://stinkydog1501.github.io/research-vault/tags/pdf-parsing</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 25 Jun 2026 20:17:07 GMT</pubDate>
+  </item><item>
+    <title>multilingual</title>
+    <link>https://stinkydog1501.github.io/research-vault/tags/multilingual</link>
+    <guid>https://stinkydog1501.github.io/research-vault/tags/multilingual</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 25 Jun 2026 20:17:07 GMT</pubDate>
+  </item><item>
+    <title>deepseek-v2</title>
+    <link>https://stinkydog1501.github.io/research-vault/tags/deepseek-v2</link>
+    <guid>https://stinkydog1501.github.io/research-vault/tags/deepseek-v2</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 25 Jun 2026 20:17:07 GMT</pubDate>
+  </item><item>
+    <title>custom-code</title>
+    <link>https://stinkydog1501.github.io/research-vault/tags/custom-code</link>
+    <guid>https://stinkydog1501.github.io/research-vault/tags/custom-code</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 25 Jun 2026 20:17:07 GMT</pubDate>
+  </item><item>
+    <title>meta</title>
+    <link>https://stinkydog1501.github.io/research-vault/tags/meta</link>
+    <guid>https://stinkydog1501.github.io/research-vault/tags/meta</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 25 Jun 2026 20:17:07 GMT</pubDate>
+  </item><item>
+    <title>setup</title>
+    <link>https://stinkydog1501.github.io/research-vault/tags/setup</link>
+    <guid>https://stinkydog1501.github.io/research-vault/tags/setup</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 25 Jun 2026 20:17:07 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://stinkydog1501.github.io/research-vault/tags/</link>
     <guid>https://stinkydog1501.github.io/research-vault/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 25 Jun 2026 15:38:16 GMT</pubDate>
+    <pubDate>Thu, 25 Jun 2026 20:17:07 GMT</pubDate>
   </item><item>
     <title>research</title>
     <link>https://stinkydog1501.github.io/research-vault/research/</link>
     <guid>https://stinkydog1501.github.io/research-vault/research/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 25 Jun 2026 15:38:16 GMT</pubDate>
+    <pubDate>Thu, 25 Jun 2026 20:17:07 GMT</pubDate>
   </item><item>
-    <title>research</title>
-    <link>https://stinkydog1501.github.io/research-vault/tags/research</link>
-    <guid>https://stinkydog1501.github.io/research-vault/tags/research</guid>
+    <title>models</title>
+    <link>https://stinkydog1501.github.io/research-vault/research/models/</link>
+    <guid>https://stinkydog1501.github.io/research-vault/research/models/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 25 Jun 2026 15:38:16 GMT</pubDate>
-  </item><item>
-    <title>llm</title>
-    <link>https://stinkydog1501.github.io/research-vault/tags/llm</link>
-    <guid>https://stinkydog1501.github.io/research-vault/tags/llm</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 25 Jun 2026 15:38:16 GMT</pubDate>
-  </item><item>
-    <title>open-weight</title>
-    <link>https://stinkydog1501.github.io/research-vault/tags/open-weight</link>
-    <guid>https://stinkydog1501.github.io/research-vault/tags/open-weight</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 25 Jun 2026 15:38:16 GMT</pubDate>
-  </item><item>
-    <title>weekly-recap</title>
-    <link>https://stinkydog1501.github.io/research-vault/tags/weekly-recap</link>
-    <guid>https://stinkydog1501.github.io/research-vault/tags/weekly-recap</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 25 Jun 2026 15:38:16 GMT</pubDate>
-  </item><item>
-    <title>dry-run</title>
-    <link>https://stinkydog1501.github.io/research-vault/tags/dry-run</link>
-    <guid>https://stinkydog1501.github.io/research-vault/tags/dry-run</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 25 Jun 2026 15:38:16 GMT</pubDate>
-  </item><item>
-    <title>hardware</title>
-    <link>https://stinkydog1501.github.io/research-vault/tags/hardware</link>
-    <guid>https://stinkydog1501.github.io/research-vault/tags/hardware</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 25 Jun 2026 15:38:16 GMT</pubDate>
-  </item><item>
-    <title>mechanical</title>
-    <link>https://stinkydog1501.github.io/research-vault/tags/mechanical</link>
-    <guid>https://stinkydog1501.github.io/research-vault/tags/mechanical</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 25 Jun 2026 15:38:16 GMT</pubDate>
+    <pubDate>Thu, 25 Jun 2026 20:17:07 GMT</pubDate>
   </item>
     </channel>
   </rss>
